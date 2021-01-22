@@ -10,3 +10,7 @@ A Flutter desktop & web app for configuring a scraper to save resources.
 
 - [flutter_treeview | Flutter Package](https://pub.dev/packages/flutter_treeview)
 - [json_viewer | Flutter Package](https://pub.flutter-io.cn/packages/json_viewer)
+
+## Wireframes 
+
+<img width="848" alt="Screen Shot 2021-01-23 at 12 35 34 am" src="https://user-images.githubusercontent.com/1059276/105497468-fe2ba600-5d12-11eb-9ea8-ba24f6fec98d.png">
